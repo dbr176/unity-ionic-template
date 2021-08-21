@@ -1,0 +1,7 @@
+{
+  "name": "sample-pwa-unity",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
